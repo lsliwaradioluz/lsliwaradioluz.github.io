@@ -1,0 +1,58 @@
+[
+  { 
+    "header": "Fitness Club Website", 
+    "subheader": "My first serious web-development order", 
+    "description": "Quite a big website with quite a lot of content. I've just tweaked it and added my own CMS to make it editable. Before refactoring, it relied heavily on Bootstrap. Now it's pure CSS Grid and components like carousels or collapses built from scratch. HTML, CSS, Vue for Front End. Firebase with a bit of Node.js logic as Backend-as-a-Service.",
+    "imgName": "hesgym", 
+    "liveLink": "https://lsliwaradioluz.github.io/hes", 
+    "codeLink": "https://github.com/lsliwaradioluz/hes"
+  },
+  { 
+    "header": "Calorie Counter", 
+    "subheader": "Create a food journal and track nutrition", 
+    "description": "My first serious Vue project using a couple of its major features (VueX, Vue Router) along with axios and firebase. Users can sign-up and sign-in, create their own food journal and count calories day by day.",
+    "imgName": "myFood", 
+    "liveLink": "https://lsliwaradioluz.github.io/myFood/#/", 
+    "codeLink": "https://github.com/lsliwaradioluz/myFood"
+  }, 
+  { 
+    "header": "Snake Game", 
+    "subheader": "Simple game create during flights to Italy and back", 
+    "description": "Yes, I am scared of flying. The idea was to occupy my mind with programming not to notice the turbulence. That's the way I built the majority of this Vue app that had to resemble an oldschool Nokia game (notice the font). Since I was able to do it during a rather short flight to Sicily, I dread to think what I could build on a flight to Australia!",
+    "imgName": "snake", 
+    "liveLink": "https://lsliwaradioluz.github.io/vue-snake/", 
+    "codeLink": "https://github.com/lsliwaradioluz/vue-snake"
+  },
+  { 
+    "header": "Typing Speed Test", 
+    "subheader": "Let's check how fast are you!", 
+    "description": "I saw this app on LiveChat's company website and thought: it is really fun but it must have been difficult to build! All I wanted to do is replicate the idea and see if I can create it <b>from scratch<b> using Vue. My app looks almost the same as theirs but don't be alarmed - the code was not copied in any way.",
+    "imgName": "typingSpeedTest", 
+    "liveLink": "https://lsliwaradioluz.github.io/typing-speed-test/", 
+    "codeLink": "https://github.com/lsliwaradioluz/typing-speed-test"
+  },
+  { 
+    "header": "Vue Timer", 
+    "subheader": "Why is there no alarm clock on Windows?!", 
+    "description": "Javascript ships with a lot of time and date related functions but it doesn't ship with ready to use stopwatch, timer or alarm clock. I decided to create all of them myself! It was a while ago, today I might look for ways to avoid using so many if-else statements but hey, it works!",
+    "imgName": "OnTime", 
+    "liveLink": "https://lsliwaradioluz.github.io/OnTime/", 
+    "codeLink": "https://github.com/lsliwaradioluz/OnTime"
+  },
+  { 
+    "header": "Vue Carousel", 
+    "subheader": "First experiments with CMS", 
+    "description": "A small project using Vue and Firebase to see if I can create editable elements. Nothing great, you can also see it in my tweaked Fitness CLub Website. It's even better there - contains more logic and less code.",
+    "imgName": "vueCarousel", 
+    "liveLink": "https://lsliwaradioluz.github.io/vue-carousel/", 
+    "codeLink": "https://github.com/lsliwaradioluz/vue-carousel"
+  },
+  { 
+    "header": "Lawyer Website Template", 
+    "subheader": "My second serious web-development order", 
+    "description": "This project uses only HTML, CSS and Javascript (no Vue whatsoever) and was created when I still didn't know the framework. It's basic, responsive and did the job.",
+    "imgName": "lawyerWebsite", 
+    "liveLink": "https://lsliwaradioluz.github.io/lawyer_website/", 
+    "codeLink": "https://github.com/lsliwaradioluz/adwokat_piechocinska"
+  }
+]
