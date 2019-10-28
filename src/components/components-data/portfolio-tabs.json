@@ -17,7 +17,7 @@
   }, 
   { 
     "header": "Snake Game", 
-    "subheader": "Simple game create during flights to Italy and back", 
+    "subheader": "Simple game created during flights to Italy and back", 
     "description": "Yes, I am scared of flying. The idea was to occupy my mind with programming not to notice the turbulence. That's the way I built the majority of this Vue app that had to resemble an oldschool Nokia game (notice the font). Since I was able to do it during a rather short flight to Sicily, I dread to think what I could build on a flight to Australia!",
     "imgName": "snake", 
     "liveLink": "https://lsliwaradioluz.github.io/vue-snake/", 
@@ -26,7 +26,7 @@
   { 
     "header": "Typing Speed Test", 
     "subheader": "Let's check how fast are you!", 
-    "description": "I saw this app on LiveChat's company website and thought: it is really fun but it must have been difficult to build! All I wanted to do is replicate the idea and see if I can create it <b>from scratch<b> using Vue. My app looks almost the same as theirs but don't be alarmed - the code was not copied in any way.",
+    "description": "I saw this app on LiveChat's company website and thought: it is really fun but it must have been difficult to build! All I wanted to do is replicate the idea and see if I can create it from scratch using Vue. My app looks almost the same as theirs but don't be alarmed - the code was not copied in any way.",
     "imgName": "typingSpeedTest", 
     "liveLink": "https://lsliwaradioluz.github.io/typing-speed-test/", 
     "codeLink": "https://github.com/lsliwaradioluz/typing-speed-test"
