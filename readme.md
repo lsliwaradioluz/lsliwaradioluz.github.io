@@ -1,10 +1,10 @@
 # My portfolio
----
+***
 A simple yet not too shabby portfolio of a junior front-end developer
 
 # Screenshots
 ---
-![alt text](https://github.com/lsliwaradioluz/lsliwaradioluz.github.io/portfolio-screenshot.jpg)
+![screenshot](https://github.com/lsliwaradioluz/lsliwaradioluz.github.io/screen-portfolio.jpg)
 
 # Technologies 
 ---
