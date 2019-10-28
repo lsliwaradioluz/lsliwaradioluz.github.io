@@ -2,7 +2,7 @@
 A simple yet not too shabby portfolio of a junior front-end developer
 
 # Screenshots
-![screenshot](https://github.com/lsliwaradioluz/lsliwaradioluz.github.io/blob/master/screen-portfolio.jpg)
+![screenshot](https://github.com/lsliwaradioluz/lsliwaradioluz.github.io/blob/master/assets/screen-portfolio.jpg)
 
 # Technologies 
   * HTML5
